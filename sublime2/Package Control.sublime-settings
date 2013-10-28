@@ -4,9 +4,14 @@
 	[
 		"All Autocomplete",
 		"Emmet",
+		"EncodingHelper",
 		"IndentGuides",
+		"LineEndings",
 		"Package Control",
 		"SideBarEnhancements",
+		"Theme - Aqua",
+		"Theme - Phoenix",
+		"Theme - Soda",
 		"TrailingSpaces"
 	]
 }
