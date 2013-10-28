@@ -1,5 +1,5 @@
 {
-    "auto_complete_commit_on_tab": true,
+	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Color Scheme - User/Snappy.tmTheme",
 	"default_encoding": "UTF-8",
@@ -24,7 +24,6 @@
 	],
 	"save_on_focus_lost": false,
 	"show_full_path": true,
-	"show_minimap": false,
 	"theme": "Soda Light.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
