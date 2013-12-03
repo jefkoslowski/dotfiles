@@ -4,14 +4,19 @@
 	[
 		"All Autocomplete",
 		"Emmet",
-		"EncodingHelper",
 		"IndentGuides",
 		"LineEndings",
 		"Package Control",
 		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeTODO",
 		"Theme - Aqua",
 		"Theme - Phoenix",
 		"Theme - Soda",
 		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/robcowie/SublimeTODO"
 	]
 }
