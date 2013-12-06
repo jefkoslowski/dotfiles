@@ -3,12 +3,15 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"BracketHighlighter",
+		"Dayle Rees Color Schemes",
 		"Emmet",
 		"IndentGuides",
 		"LineEndings",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeGit",
+		"SublimeLinter",
 		"SublimeTODO",
 		"Theme - Aqua",
 		"Theme - Phoenix",
