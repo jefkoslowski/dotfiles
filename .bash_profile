@@ -3,6 +3,7 @@ export CLICOLOR=1
 export LSCOLORS=ExFxCxDxBxegedabagacad
 alias ll='ls -laF'
 alias s='open -a "Sublime Text 2"'
+alias gitx='open -a "GitX"'
 
 # Prompt Colors
 # Modified version of @gf3’s Sexy Bash Prompt
