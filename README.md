@@ -14,3 +14,5 @@ cp z.sh ~/
 cp .bash_profile ~/
 cp .inputrc ~/
 ```
+
+![](http://imgur.com/SIBMck0)
