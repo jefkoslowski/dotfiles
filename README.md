@@ -15,4 +15,4 @@ cp .bash_profile ~/
 cp .inputrc ~/
 ```
 
-![](http://i.imgur.com/SIBMck0.jpg)
+![](http://i.imgur.com/nBmTtUd.jpg)
