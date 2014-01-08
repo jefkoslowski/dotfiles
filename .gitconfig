@@ -1,0 +1,15 @@
+[push]
+	default = simple
+[alias]
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(cyan)<%an>%Creset' --abbrev-commit --date=relative
+	st = status -sb
+[color]
+	status = auto
+[color "status"]
+	added = green
+	changed = yellow
+	untracked = cyan
+	deleted = red
+[core]
+	# Use custom '.gitignore'
+	excludesfile = ~/.gitignore_global
