@@ -48,4 +48,4 @@ When setting up a new Mac, you may want to set some sensible OS X defaults:
 
 ![](http://i.imgur.com/nBmTtUd.jpg)
 
-*Heavily based on [Mathias Bynens](https://github.com/mathiasbynens/dotfiles/issues) dotfiles*
+*Heavily based on [Mathias Bynens](https://github.com/mathiasbynens/dotfiles/) dotfiles*
